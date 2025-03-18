@@ -90,3 +90,4 @@ curl -X POST -F "image=@new_face.jpg" -F "name=John" http://127.0.0.1:5000/uploa
 ## Notes
 - Ensure the images used for encoding are clear and well-lit for optimal recognition accuracy.
 - The service compares faces based on encodings and may have limitations with low-quality images or occlusions.
+#
